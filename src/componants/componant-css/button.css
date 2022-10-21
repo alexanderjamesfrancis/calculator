@@ -1,0 +1,11 @@
+.wrapper{
+    display: flex;
+    border: 5px;
+    border-color: red;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    align-center: center;
+}
